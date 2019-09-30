@@ -12,7 +12,7 @@ PokerFace is a poker hand translator, translating your poker hand (consisting of
 Fetch the project from GitHub
 
 ```bash
-git clone https://github.com/glfinnbogason/instil.git
+git clone https://github.com/glfinnbogason/Pokerface.git
 ```
 
 Now build and run the projects tests
